@@ -1,0 +1,101 @@
+DoctorID,DoctorName,Specialty,Phone,YearsOfExperience,HospitalAffiliation,Location,Rating
+DR00001,Yashasvi Bath,Endocrinology,0556813915,13.0,Memon LLC,Bhusawal,3.9
+DR00002,Anjali Hayre,General Practice,9567936871,33.0,Kade LLC,Asansol,4.3
+DR00003,Saanvi Devan,Dermatology,9117504140,5.0,"Ramakrishnan, Roy and Saraf",Vadodara,3.9
+DR00004,Mekhala Dave,Neurology,09477986716,10.0,"Bawa, Dhar and Walla",Aurangabad,4.9
+DR00005,Advik Doshi,Dermatology,07108802939,NULL,Yadav-D’Alia,Darbhanga,3.8
+DR00006,Ayush Khatri,Neurology,+914543893974,29.0,Sani PLC,Gopalpur,3.9
+DR00007,Charan Sawhney,Dermatology,08304524856,16.0,"Dutta, Contractor and Bhandari",Durgapur,3.6
+DR00008,Maya Vaidya,Neurology,05858518667,22.0,Kapoor PLC,Agra,5.0
+DR00009,Advay Chander,Orthopedics,7893066703,21.0,"Dhingra, Patil and Devan",Amaravati,4.0
+DR00010,Logan Sandhu,Neurology,08779718864,40.0,Ramachandran-Johal,Kadapa,4.7
+DR00011,Amol Vyas,General Practice,09176110629,16.0,Aggarwal-Narayan,Erode,4.3
+DR00012,Chandresh Gade,Orthopedics,+917801198732,NULL,Parikh-Swaminathan,Hosur,4.3
+DR00013,Harini Padmanabhan,Dermatology,+910629982765,25.0,"Vaidya, Bal and Issac",Mehsana,4.7
+DR00014,Zashil Dhaliwal,Endocrinology,+911737745136,9.0,Choudhury Ltd,Tezpur,4.3
+DR00015,Xavier Banik,Endocrinology,09376775777,22.0,Bansal Group,Danapur,4.0
+DR00016,Urvi Madan,Cardiology,8039242623,18.0,Ratta-Wali,Mehsana,3.8
+DR00017,Priya Sangha,Endocrinology,5023075958,NULL,Borah and Sons,Delhi,4.7
+DR00018,Shravya Ravi,Pediatrics,06443037846,26.0,Dhawan PLC,Anantapur,3.9
+DR00019,Aarav Chanda,Endocrinology,+910704786984,30.0,Muni-Soni,Ranchi,3.3
+DR00020,Faras Sankaran,Cardiology,7295373406,25.0,Bal Ltd,Rajpur Sonarpur,5.0
+DR00021,Chaitaly Sule,General Practice,8765240824,7.0,Sodhi Group,Faridabad,3.8
+DR00022,Faqid Hora,General Practice,4675596951,34.0,"Sama, Sinha and Solanki",Kadapa,3.5
+DR00023,Girish Dave,Neurology,05767959546,8.0,"Trivedi, Rout and Barad",Kota,4.3
+DR00024,Mason Dixit,General Practice,3925073856,10.0,Mahal and Sons,Guwahati,3.6
+DR00025,Harini Gokhale,Dermatology,02106063769,11.0,Goel PLC,Muzaffarnagar,4.1
+DR00026,Farhan Balay,Neurology,09525845087,12.0,Garde-Nigam,Nizamabad,4.5
+DR00027,Michael Krishnamurthy,Orthopedics,0777084662,25.0,"Ravel, Shere and Mishra",Alwar,3.3
+DR00028,Balveer Chaudhari,General Practice,3537941792,NULL,Khalsa Ltd,Chittoor,4.2
+DR00029,Ati Wagle,General Practice,0593532218,NULL,"Iyengar, Vohra and Mukhopadhyay",Danapur,3.4
+DR00030,Neha Chowdhury,Dermatology,+912453346287,23.0,Jaggi Group,Satara,4.2
+DR00031,Tejas Chaudhuri,Endocrinology,+910204626465,23.0,"Gara, Basak and Sheth",Kavali,3.5
+DR00032,Riya Mannan,Orthopedics,01826460581,40.0,Raghavan Group,Shivpuri,3.8
+DR00033,Ayaan Virk,Cardiology,04068315231,28.0,Mohan Group,Nanded,3.4
+DR00034,Pushti Doctor,Cardiology,1953636890,15.0,Chakrabarti-Kale,Tirupati,3.9
+DR00035,Tanveer Jha,Pediatrics,6059442168,40.0,Khalsa-Rastogi,Panchkula,4.0
+DR00036,Charita Bhargava,Pediatrics,1393053623,40.0,Morar LLC,Phagwara,4.9
+DR00037,Upasna Narang,Neurology,+913896758212,14.0,Kannan Inc,Begusarai,3.3
+DR00038,Ekansh Sama,General Practice,3364755600,32.0,Dutta Ltd,Buxar,3.5
+DR00039,Chatura Ray,Dermatology,+912536332161,NULL,Bhatti Group,Aizawl,3.3
+DR00040,Amaira Venkatesh,Orthopedics,+913759666103,29.0,Master Group,Jalandhar,3.7
+DR00041,Siddharth Khare,Endocrinology,01550024131,12.0,"Batra, Krishnamurthy and Sastry",Bhilwara,3.6
+DR00042,Vrishti Srivastava,Pediatrics,+913447651053,35.0,Kalla Inc,Salem,3.4
+DR00043,Lakshit Mand,Endocrinology,4108443769,23.0,Korpal-Chatterjee,Gurgaon,3.3
+DR00044,Kabir Ghose,Neurology,0133561285,9.0,Brahmbhatt and Sons,Ballia,3.9
+DR00045,Yoshita Kota,General Practice,03359488484,13.0,Iyengar PLC,Sri Ganganagar,3.4
+DR00046,Suhani Ramaswamy,Dermatology,04841964519,NULL,Ramachandran PLC,Kollam,4.3
+DR00047,Tanish Sastry,Cardiology,1590747794,9.0,"Mitra, Tara and Sankaran",Mangalore,4.4
+DR00048,Pranit Jhaveri,Endocrinology,03545731454,28.0,"Gara, Nori and Varty",Ichalkaranji,4.1
+DR00049,Sanaya Krishnamurthy,Orthopedics,7325010888,35.0,Memon PLC,Siliguri,3.1
+DR00050,Balveer Khatri,General Practice,3917364631,25.0,Murty-Dayal,Tiruchirappalli,4.0
+DR00051,Abeer Bajaj,Endocrinology,8899736621,8.0,Ramaswamy-Raja,Chittoor,3.3
+DR00052,Yatin Suresh,General Practice,0476647527,7.0,"Sharaf, Bal and Mukherjee",Morena,4.0
+DR00053,Jai Mody,Dermatology,+913094283347,31.0,Kala and Sons,Howrah,4.3
+DR00054,Krisha Singhal,Dermatology,00020803096,18.0,"Sachar, Subramaniam and Koshy",Pimpri-Chinchwad,4.3
+DR00055,Madhavi Din,Orthopedics,03496468678,26.0,Sama PLC,Anand,4.1
+DR00056,Janya Gour,General Practice,3607898425,39.0,"Shukla, Mitra and Nadkarni",Siliguri,3.1
+DR00057,Tanay Sahota,Cardiology,09260175516,20.0,"Padmanabhan, Prakash and Gola",Adoni,3.7
+DR00058,Manbir Narasimhan,Dermatology,+912434501282,39.0,Barman and Sons,Pune,3.4
+DR00059,Chasmum Sampath,Dermatology,2395418695,34.0,Mall PLC,Saharanpur,4.5
+DR00060,Ekapad Madan,Orthopedics,+919980077101,27.0,Raj LLC,Mau,4.7
+DR00061,Ira Shankar,Orthopedics,+911832509739,40.0,Bail-Bhakta,Indore,3.8
+DR00062,Praneel Malhotra,Neurology,00320383572,18.0,"Lad, Mallick and Konda",Kolhapur,4.1
+DR00063,Bakhshi Dasgupta,Cardiology,07186219424,35.0,"De, Patla and Kade",Bhimavaram,4.4
+DR00064,Parth Prakash,General Practice,01670217888,17.0,Datta PLC,Ramagundam,5.0
+DR00065,Gaurav Basak,General Practice,+914820065014,13.0,"Bali, Loke and Ravel",North Dumdum,5.0
+DR00066,Brijesh Bandi,Pediatrics,04105139238,NULL,Viswanathan and Sons,Durg,3.9
+DR00067,Yahvi Barad,Orthopedics,3446072969,12.0,Kant PLC,Gopalpur,3.3
+DR00068,Mohammed Raju,Orthopedics,5054652242,26.0,Lad Ltd,Medininagar,0.6
+DR00069,Aarna Subramanian,Neurology,3366119498,11.0,"Narain, Rai and Wadhwa",Bangalore,3.2
+DR00070,Jeet Garde,Pediatrics,08275293160,7.0,"Swamy, Panchal and Toor",Cuttack,3.5
+DR00071,Samar Mangal,Dermatology,+915156203989,33.0,Raja-Saha,Karimnagar,5.0
+DR00072,Pooja Shanker,Pediatrics,+910824753770,23.0,Gandhi-D’Alia,Shimla,5.0
+DR00073,Anika Madan,Endocrinology,+911321689559,31.0,Sinha and Sons,Karimnagar,3.5
+DR00074,Rudra Mall,Endocrinology,1500714353,7.0,Vaidya Inc,Darbhanga,3.5
+DR00075,Upadhriti Thaker,Cardiology,0224876403,23.0,"Ahuja, Tara and Din",Nagaon,5.0
+DR00076,Maya Lata,Dermatology,+911064181247,11.0,"Toor, Choudhary and Bobal",Jalgaon,3.2
+DR00077,Dalbir Balay,Cardiology,9347110228,37.0,Chander Inc,Munger,4.4
+DR00078,Shivansh Dani,Pediatrics,+918061814140,22.0,Thakkar-Bath,Sultan Pur Majra,4.0
+DR00079,Gunbir Swaminathan,Neurology,+914520059371,37.0,"Balakrishnan, Garde and Bava",Amritsar,3.7
+DR00080,Xalak Chad,General Practice,5566766124,6.0,Mitter-Dutta,Gandhidham,3.2
+DR00081,Samuel Mammen,Neurology,0756195209,26.0,Kurian-Badal,Hyderabad,4.2
+DR00082,Saksham Raval,Endocrinology,8123111800,9.0,Bala LLC,Gudivada,4.0
+DR00083,Eesha Krishna,Pediatrics,+916296964248,22.0,Kannan-Khanna,Vijayanagaram,4.5
+DR00084,Bhavini Shah,Neurology,7766724686,16.0,"Chada, Rau and Char",Raiganj,0.9
+DR00085,Gunbir Tara,Orthopedics,05892971150,32.0,Vaidya LLC,Coimbatore,4.7
+DR00086,Priya Roy,Pediatrics,9980940601,NULL,Jha Ltd,Guntur,3.2
+DR00087,Chanchal D’Alia,Cardiology,09678922000,27.0,Pai Ltd,Mahbubnagar,3.9
+DR00088,Samarth Sunder,Cardiology,1930335666,39.0,"Dara, Basak and Parikh",Warangal,3.5
+DR00089,Jagvi Ahluwalia,Neurology,06873527316,23.0,Manne Group,Bally,4.4
+DR00090,Banjeet Wadhwa,Neurology,05078498065,5.0,Shankar-Ramachandran,Buxar,3.4
+DR00091,Nandini Kashyap,Pediatrics,09088446699,NULL,Tara-Bajwa,Pimpri-Chinchwad,4.6
+DR00092,Robert Venkatesh,Cardiology,9763257593,22.0,Subramanian Group,Dehri,3.2
+DR00093,Sara Purohit,General Practice,9708625966,34.0,Chana-Comar,Imphal,3.9
+DR00094,Michael Setty,Pediatrics,2135388290,28.0,Parmer LLC,Udupi,0.1
+DR00095,Aahana Sami,General Practice,+914609410594,37.0,Bajwa Group,Faridabad,4.9
+DR00096,Samarth Datta,Endocrinology,5720548800,36.0,"Ramanathan, Warrior and Walla",Jhansi,3.5
+DR00097,Yashica Joshi,Dermatology,0859385352,8.0,Gera-Chad,Jhansi,4.3
+DR00098,Eesha Dash,Cardiology,+914999608525,31.0,"Desai, Kothari and Singh",Aligarh,4.8
+DR00099,Nikita Joshi,Cardiology,09446861563,18.0,"Shetty, Goswami and Shah",Rohtak,3.0
+DR00100,Kamya Nath,Pediatrics,2328034134,NULL,Agrawal-Divan,Nagpur,3.6
