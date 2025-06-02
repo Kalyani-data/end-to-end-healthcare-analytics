@@ -1,4 +1,4 @@
-Drop Database HealthcareDB; 
+
 
 CREATE DATABASE HealthcareDB;
 USE HealthcareDB;
