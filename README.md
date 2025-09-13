@@ -25,14 +25,17 @@ For detailed documentation, refer to [Project Documentation (PDF)](./document/pr
 
 ### 1. Patient & Appointment Trends  
 Monitor patient activity, appointment types, completion rates, and demographics.  
+
 ![Dashboard 1](./images/dashboard1_patients_appointments.png)
 
 ### 2. Financial Performance & Billing  
-Track billed vs settled amounts, insurance contributions, payment status, and collection gaps.  
+Track billed vs settled amounts, insurance contributions, payment status, and collection gaps. 
+
 ![Dashboard 2](./images/dashboard2_financial_billing.png)
 
 ### 3. Doctor, Diagnosis & Prescription Overview  
 Analyze doctor performance, revenue, common diagnoses, and prescription patterns.  
+
 ![Dashboard 3](./images/dashboard3_clinical_insights.png)
 
 ---
