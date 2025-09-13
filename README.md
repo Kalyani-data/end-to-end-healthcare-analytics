@@ -17,7 +17,7 @@ City Hospital faces challenges in patient engagement, appointment management, bi
 - SQL-based cleaning and transformation ensure consistency, relational integrity, and actionable metrics.  
 - Power BI dashboards provide interactive visualization for operational, financial, and clinical insights.
 
-For detailed documentation, refer to [Project Documentation (PDF)](./document/project_documentation.pdf).
+For detailed documentation, refer to [Project Documentation (PDF)](./document/Project_Documentation.pdf).
 
 ---
 
