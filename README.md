@@ -44,7 +44,7 @@ Analyze doctor performance, revenue, common diagnoses, and prescription patterns
 
 **Key Observations:**  
 - **Operational Gaps:** High no-show rates (~15%) and inactive patients (~40%) reduce efficiency.  
-- **Financial Leakages:** $3.62M unpaid dues (~26%) and low insurance coverage.  
+- **Financial Leakages:** ₹3.62M unpaid dues (~26%) and low insurance coverage.  
 - **Chronic Disease Burden:** Asthma, Diabetes, Hypertension, and Migraine dominate patient load.  
 - **Doctor Performance Misalignment:** Appointment volume does not directly correlate with revenue.
 
