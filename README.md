@@ -16,6 +16,8 @@ City Hospital faces challenges in patient engagement, appointment management, bi
 - Synthetic dataset generated using Python (**Faker**) simulating patients, doctors, appointments, diagnoses, prescriptions, and billing.  
 - SQL-based cleaning and transformation ensure consistency, relational integrity, and actionable metrics.  
 - Power BI dashboards provide interactive visualization for operational, financial, and clinical insights.
+  
+**Note:** All financial values are in Indian Rupees (₹) and shown in millions (M).
 
 For detailed documentation, refer to [Project Documentation (PDF)](./document/Project_Documentation.pdf).
 
